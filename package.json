@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "jest-cli": "^20.0.4",
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "jest": "jest",
+    "mocha": "mocha"
+  }
 }
